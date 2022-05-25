@@ -1,4 +1,3 @@
-# GNOD-project
-GNOD  1st proptotype
+# GNOD-project-1st proptotype
 
--- https://docs.google.com/presentation/d/1SkBZeH2ExjQbCVaWvpB8flcvIfsIQq-6la4WjRf2tSc/edit#slide=id.p
+<img width="901" alt="Screenshot 2022-05-25 at 14 48 53" src="https://user-images.githubusercontent.com/103429801/170265837-0e37d43b-3e34-4fb2-9cdd-c0b6f512e54c.png">
